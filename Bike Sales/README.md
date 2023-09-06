@@ -1,13 +1,13 @@
-<h1>Overview</h1>h1>
+<h1>Overview</h1>
 This repository contains an Excel-based Bike Sales Dashboard that provides a comprehensive overview of bike sales data. This dashboard is designed to help you analyze and visualize key metrics related to bike sales, allowing you to make informed business decisions and track performance over time.
 
   
 <h1>Features</h1>
-**Interactive Charts:** The dashboard includes interactive charts and graphs that make it easy to explore sales data, including trends, commute, and profession of customers.
+<h3>Interactive Charts:</h3> The dashboard includes interactive charts and graphs that make it easy to explore sales data, including trends, commute, and profession of customers.
 
-**Customizable Filters:** You can filter data by commute distance, location, and other relevant criteria, allowing you to focus on specific aspects of your bike sales.
+<h3>Customizable Filters:</h3> You can filter data by commute distance, location, and other relevant criteria, allowing you to focus on specific aspects of your bike sales.
 
-**User-Friendly Interface:** The user-friendly interface ensures that even those without advanced Excel skills can navigate and utilize the dashboard effectively.
+<h3>User-Friendly Interface:</h3>h3> The user-friendly interface ensures that even those without advanced Excel skills can navigate and utilize the dashboard effectively.
 
 
 <h1>Getting Started</h1>
