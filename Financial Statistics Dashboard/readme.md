@@ -49,7 +49,7 @@ The dashboard provides a number of benefits to users, including:
   </li>
 
    <li><h4>Project Status Dashboard</h4><br>
-     <img src="https://drive.google.com/file/d/1tqDo5hj80-R5Fnvxmtq9Z1tjF2qhTKU5/view?usp=sharing" width="300" height="250" alt="Project_Status_dashboard">
+     <img src="https://drive.google.com/file/d/1L9RpNGsj6IkH7a3p1F0YAqdfTyZ3q1TZ/view?usp=drive_link" width="300" height="250" alt="Project_Status_dashboard">
   </li>
 </ol>
 <h2>Conclusion</h2>
