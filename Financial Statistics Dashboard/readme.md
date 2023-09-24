@@ -1,11 +1,11 @@
 
 <h1>Financial Statistics Dashboard</h1>
 This Excel dashboard provides a comprehensive overview of the financial performance of a marketing agency from 2019 to 2024, with three major tables:
-<h3>Income Sources:</h3> 
+<h4>Income Sources:</h4> 
 <br>This table shows the breakdown of the agency's revenue by income source, such as client fees, commissions, and advertising revenue.
-<h3>Geographical Revenue/Sales:</h3> 
+<h4>Geographical Revenue/Sales:</h4> 
 <br>This table shows the agency's revenue/sales by geographic region, such as country, state, or city.
-<h3>Sales Process from Income Sources:</h3> 
+<h4>Sales Process from Income Sources:</h4> 
 <br>This table shows the sales process for each income source, including the number of leads, opportunities, and closed deals.
 <br>
 The dashboard is powered by Excel pivot tables, which allow users to easily filter and analyze the data. Users can also use slicers to interact with the dashboard and drill down into specific areas of interest.
