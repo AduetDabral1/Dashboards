@@ -34,5 +34,23 @@ The dashboard provides a number of benefits to users, including:
 <li><b>Comprehensive:</b> The dashboard provides a comprehensive overview of the agency's financial performance, with three major tables covering income sources, geographical revenue/sales, and sales process.</li>
 </ul>
 <br>
+<h2>Screenshots</h2>
+<ol>
+  <li><h4>Income Sources Dashboard</h4><br>
+      ![image](https://github.com/AduetDabral1/Dashboards/assets/98040707/f44dc3a1-9fb6-44c1-ac26-e39a58885c4c)
+  </li>
+
+   <li><h4>Geographical Sales Dashboard</h4><br>
+      <img src="https://drive.google.com/file/d/1tqDo5hj80-R5Fnvxmtq9Z1tjF2qhTKU5/view?usp=sharing">
+  </li>
+      
+   <li><h4>Sales Process Dashboard</h4><br>
+      <img src="https://drive.google.com/file/d/1fVDxehEWLxY7gsj00goTuhoS6-S9k2cl/view?usp=sharing">
+  </li>
+
+   <li><h4>Project Status Dashboard</h4><br>
+     <img src="https://drive.google.com/file/d/1L9RpNGsj6IkH7a3p1F0YAqdfTyZ3q1TZ/view?usp=sharing">
+  </li>
+</ol>
 <h2>Conclusion</h2>
 The financial statistics dashboard is a powerful tool for marketing agencies to analyze their financial performance and identify areas for improvement. The dashboard is easy to use, interactive, and visually appealing, making it a valuable resource for any marketing agency.
