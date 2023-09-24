@@ -41,7 +41,7 @@ The dashboard provides a number of benefits to users, including:
   </li>
 
    <li><h4>Geographical Sales Dashboard</h4><br>
-      <img src="https://drive.google.com/file/d/1tqDo5hj80-R5Fnvxmtq9Z1tjF2qhTKU5/view?usp=sharing">
+     ![Geographical Sales Dashboard](https://drive.google.com/file/d/1tqDo5hj80-R5Fnvxmtq9Z1tjF2qhTKU5/view?usp=sharing)
   </li>
       
    <li><h4>Sales Process Dashboard</h4><br>
