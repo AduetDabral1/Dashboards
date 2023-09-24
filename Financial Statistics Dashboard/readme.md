@@ -41,15 +41,15 @@ The dashboard provides a number of benefits to users, including:
   </li>
 
    <li><h4>Geographical Sales Dashboard</h4><br>
-     ![Geographical_Sales_Dashboard](https://drive.google.com/file/d/1tqDo5hj80-R5Fnvxmtq9Z1tjF2qhTKU5/view?usp=sharing)
+     ![Geographical_Sales_Dashboard](https://drive.google.com/file/d/1tqDo5hj80-R5Fnvxmtq9Z1tjF2qhTKU5/view?usp=drive_link)
   </li>
       
    <li><h4>Sales Process Dashboard</h4><br>
-      ![Sales_Process_Dashboard]()
+      ![Sales_Process_Dashboard](https://drive.google.com/file/d/1fVDxehEWLxY7gsj00goTuhoS6-S9k2cl/view?usp=drive_link)
   </li>
 
    <li><h4>Project Status Dashboard</h4><br>
-     <img src="https://drive.google.com/file/d/1L9RpNGsj6IkH7a3p1F0YAqdfTyZ3q1TZ/view?usp=drive_link" width="300" height="250" alt="Project_Status_dashboard">
+     ![Project_Status_Dashboard](https://drive.google.com/file/d/1L9RpNGsj6IkH7a3p1F0YAqdfTyZ3q1TZ/view?usp=drive_link)
   </li>
 </ol>
 <h2>Conclusion</h2>
