@@ -37,11 +37,11 @@ The dashboard provides a number of benefits to users, including:
 <h2>Screenshots</h2>
 <ol>
   <li><h4>Income Sources Dashboard</h4><br>
-      ![image](https://github.com/AduetDabral1/Dashboards/assets/98040707/f44dc3a1-9fb6-44c1-ac26-e39a58885c4c)
+      ![Income_Source_Dashboard](https://drive.google.com/file/d/1mhtvNeOhUrXqZ-DeSkUi4hPX2RIyTcaV/view?usp=drive_link)
   </li>
 
    <li><h4>Geographical Sales Dashboard</h4><br>
-     ![Geographical Sales Dashboard](https://drive.google.com/file/d/1tqDo5hj80-R5Fnvxmtq9Z1tjF2qhTKU5/view?usp=sharing)
+     ![Geographical_Sales_Dashboard](https://drive.google.com/file/d/1tqDo5hj80-R5Fnvxmtq9Z1tjF2qhTKU5/view?usp=sharing)
   </li>
       
    <li><h4>Sales Process Dashboard</h4><br>
