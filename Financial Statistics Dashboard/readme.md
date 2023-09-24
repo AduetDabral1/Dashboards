@@ -2,11 +2,11 @@
 <h1>Financial Statistics Dashboard</h1>
 This Excel dashboard provides a comprehensive overview of the financial performance of a marketing agency from 2019 to 2024, with three major tables:
 <h4>Income Sources:</h4> 
-<br>This table shows the breakdown of the agency's revenue by income source, such as client fees, commissions, and advertising revenue.
+<br>This table shows the breakdown of the agency's revenue by income sources, such as websites, physical stores, and other business models.
 <h4>Geographical Revenue/Sales:</h4> 
-<br>This table shows the agency's revenue/sales by geographic region, such as country, state, or city.
+<br>This table shows the agency's revenue/sales by geographic region by country.
 <h4>Sales Process from Income Sources:</h4> 
-<br>This table shows the sales process for each income source, including the number of leads, opportunities, and closed deals.
+<br>This table shows the sales process for each income source, including the flow of traffic to generate revenue.
 <br>
 The dashboard is powered by Excel pivot tables, which allow users to easily filter and analyze the data. Users can also use slicers to interact with the dashboard and drill down into specific areas of interest.
 
@@ -17,12 +17,13 @@ The dashboard will automatically update to show the filtered results. You can th
 
 <h2>Features</h2>
 The dashboard includes a number of features to help users analyze the data, including:
-
-<b>Pivot tables:</b> Pivot tables allow users to easily filter and summarize the data.
-<b>Slicers:</b> Slicers allow users to interact with the dashboard and drill down into specific areas of interest.
-<b>Charts and graphs:</b> Charts and graphs provide a visual representation of the data, making it easier to identify trends and patterns.
-<b>Conditional formatting:</b> Conditional formatting can be used to highlight important data points and make the dashboard more visually appealing.
-<br><br>
+<ol>
+<li><b>Pivot tables:</b> Pivot tables allow users to easily filter and summarize the data.</li>
+<li><b>Slicers:</b> Slicers allow users to interact with the dashboard and drill down into specific areas of interest.</li>
+<li><b>Charts and graphs:</b> Charts and graphs provide a visual representation of the data, making it easier to identify trends and patterns.<li>
+<li><b>Conditional formatting:</b> Conditional formatting can be used to highlight important data points and make the dashboard more visually appealing.</li>
+</ol>
+  <br><br>
 
 <h2>Benefits</h2>
 The dashboard provides a number of benefits to users, including:
