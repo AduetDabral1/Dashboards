@@ -20,7 +20,7 @@ The dashboard includes a number of features to help users analyze the data, incl
 <ol>
 <li><b>Pivot tables:</b> Pivot tables allow users to easily filter and summarize the data.</li>
 <li><b>Slicers:</b> Slicers allow users to interact with the dashboard and drill down into specific areas of interest.</li>
-<li><b>Charts and graphs:</b> Charts and graphs provide a visual representation of the data, making it easier to identify trends and patterns.<li>
+<li><b>Charts and graphs:</b> Charts and graphs provide a visual representation of the data, making it easier to identify trends and patterns.</li>
 <li><b>Conditional formatting:</b> Conditional formatting can be used to highlight important data points and make the dashboard more visually appealing.</li>
 </ol>
   <br><br>
