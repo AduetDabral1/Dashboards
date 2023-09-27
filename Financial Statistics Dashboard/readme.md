@@ -9,12 +9,12 @@ This Excel dashboard provides a comprehensive overview of the financial performa
 <br>This table shows the sales process for each income source, including the flow of traffic to generate revenue.
 <br>
 The dashboard is powered by Excel pivot tables, which allow users to easily filter and analyze the data. Users can also use slicers to interact with the dashboard and drill down into specific areas of interest.
-
+<br><br>
 <h2>Usage</h2>
 To use the dashboard, simply open the Excel file and navigate to the <b>"Dashboard"</b> worksheet. You can then use the slicers to filter the data by income source, geographic region, and/or sales process.
 
 The dashboard will automatically update to show the filtered results. You can then use the pivot tables to analyze the data in more detail.
-
+<br><br>
 <h2>Features</h2>
 The dashboard includes a number of features to help users analyze the data, including:
 <ol>
@@ -33,7 +33,7 @@ The dashboard provides a number of benefits to users, including:
 <li><b>Visual:</b> Charts and graphs provide a visual representation of the data, making it easier to identify trends and patterns.</li>
 <li><b>Comprehensive:</b> The dashboard provides a comprehensive overview of the agency's financial performance, with three major tables covering income sources, geographical revenue/sales, and sales process.</li>
 </ul>
-<br>
+<br><br>
 <h2>Screenshots</h2>
 <ol>
   <li><h4>Income Sources Dashboard</h4><br>
@@ -52,6 +52,6 @@ The dashboard provides a number of benefits to users, including:
      ![Project_Status_Dashboard](https://drive.google.com/file/d/1L9RpNGsj6IkH7a3p1F0YAqdfTyZ3q1TZ/view?usp=drive_link)
   </li>
 </ol>
-<br>
+<br><br>
 <h2>Conclusion</h2>
 The financial statistics dashboard is a powerful tool for marketing agencies to analyze their financial performance and identify areas for improvement. The dashboard is easy to use, interactive, and visually appealing, making it a valuable resource for any marketing agency.
