@@ -52,5 +52,6 @@ The dashboard provides a number of benefits to users, including:
      ![Project_Status_Dashboard](https://drive.google.com/file/d/1L9RpNGsj6IkH7a3p1F0YAqdfTyZ3q1TZ/view?usp=drive_link)
   </li>
 </ol>
+<br>
 <h2>Conclusion</h2>
 The financial statistics dashboard is a powerful tool for marketing agencies to analyze their financial performance and identify areas for improvement. The dashboard is easy to use, interactive, and visually appealing, making it a valuable resource for any marketing agency.
