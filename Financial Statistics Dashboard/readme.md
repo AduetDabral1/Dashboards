@@ -37,7 +37,7 @@ The dashboard provides a number of benefits to users, including:
 <h2>Screenshots</h2>
 <ol>
   <li><h4>Income Sources Dashboard</h4><br>
-     https://github.com/AduetDabral1/Dashboards/blob/main/Financial%20Statistics%20Dashboard/Screenshot%202023-09-24%20115749.png
+    <img src="https://github.com/AduetDabral1/Dashboards/blob/main/Financial%20Statistics%20Dashboard/Screenshot%202023-09-24%20115749.png" alt="Income Sources Dashboard">
   </li>
 
    <li><h4>Geographical Sales Dashboard</h4><br>
