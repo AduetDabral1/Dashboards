@@ -48,8 +48,10 @@
 <li><strong>Improved awareness:</strong> Promotes safety education and public awareness regarding critical factors and vulnerable regions.</li>
 <li><strong>Collaborative decision-making:</strong> Provides a shared platform for stakeholders to analyze data and discuss solutions.</li>
 </ol>
+<br> 
 
-<img src="https://drive.google.com/file/d/1I_gOoM_szvEG4r2Cusc6I74r2-W81L7D/view?usp=sharing" alt="Road Accidents Dashboard">
+![Image](https://drive.google.com/file/d/1I_gOoM_szvEG4r2Cusc6I74r2-W81L7D/view?usp=sharing)
+
 <br>
 
 By providing a dynamic and interactive platform for data exploration, this Excel dashboard helps stakeholders move beyond raw numbers and translate data into meaningful action, ultimately saving lives and creating safer roads for everyone.
