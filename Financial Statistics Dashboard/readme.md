@@ -16,7 +16,7 @@ To use the dashboard, simply open the Excel file and navigate to the <b>"Dashboa
 The dashboard will automatically update to show the filtered results. You can then use the pivot tables to analyze the data in more detail.
 <br><br>
 <h2>Features</h2>
-The dashboard includes a number of features to help users analyze the data, including:
+The dashboard includes several features to help users analyze the data, including:
 <ol>
 <li><b>Pivot tables:</b> Pivot tables allow users to easily filter and summarize the data.</li>
 <li><b>Slicers:</b> Slicers allow users to interact with the dashboard and drill down into specific areas of interest.</li>
@@ -26,7 +26,7 @@ The dashboard includes a number of features to help users analyze the data, incl
   <br><br>
 
 <h2>Benefits</h2>
-The dashboard provides a number of benefits to users, including:
+The dashboard provides many benefits to users, including:
 <ul>
 <li><b>Easy to use:</b> The dashboard is easy to use, even for users with no prior experience with Excel pivot tables.</li>
 <li><b>Interactive:</b> Users can interact with the dashboard and drill down into specific areas of interest to gain deeper insights.</li>
@@ -37,21 +37,28 @@ The dashboard provides a number of benefits to users, including:
 <h2>Screenshots</h2>
 <ol>
   <li><h4>Income Sources Dashboard</h4><br>
-    ![Income Sources Dashboard](https://github.com/AduetDabral1/Dashboards/blob/main/Financial%20Statistics%20Dashboard/Screenshot%202023-09-24%20115749.png)
+
+  [![Screenshot-2023-09-24-115749.png](https://i.postimg.cc/9FYcJcjq/Screenshot-2023-09-24-115749.png)](https://postimg.cc/LnhdsK5H)
+    
   </li>
 
    <li><h4>Geographical Sales Dashboard</h4><br>
-     ![Geographical_Sales_Dashboard](https://drive.google.com/file/d/1tqDo5hj80-R5Fnvxmtq9Z1tjF2qhTKU5/view?usp=drive_link)
+
+[![Screenshot-2023-09-24-120135.png](https://i.postimg.cc/3rp80gS1/Screenshot-2023-09-24-120135.png)](https://postimg.cc/3W85PDH0)
+  
   </li>
       
    <li><h4>Sales Process Dashboard</h4><br>
-      ![Sales_Process_Dashboard](https://drive.google.com/file/d/1fVDxehEWLxY7gsj00goTuhoS6-S9k2cl/view?usp=drive_link)
+     
+  [![Screenshot-2023-09-24-120250.png](https://i.postimg.cc/5NVxB6DV/Screenshot-2023-09-24-120250.png)](https://postimg.cc/Btm9sQqY)
   </li>
 
    <li><h4>Project Status Dashboard</h4><br>
-     ![Project_Status_Dashboard](https://drive.google.com/file/d/1L9RpNGsj6IkH7a3p1F0YAqdfTyZ3q1TZ/view?usp=drive_link)
+     
+  [![Screenshot-2023-09-24-120343.png](https://i.postimg.cc/SsYyr8yy/Screenshot-2023-09-24-120343.png)](https://postimg.cc/Vr1QsJrT)
   </li>
 </ol>
 <br><br>
+
 <h2>Conclusion</h2>
 The financial statistics dashboard is a powerful tool for marketing agencies to analyze their financial performance and identify areas for improvement. The dashboard is easy to use, interactive, and visually appealing, making it a valuable resource for any marketing agency.
