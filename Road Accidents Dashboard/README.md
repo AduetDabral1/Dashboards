@@ -50,7 +50,7 @@
 </ol>
 <br> 
 
-![Image](https://drive.google.com/file/d/1I_gOoM_szvEG4r2Cusc6I74r2-W81L7D/view?usp=sharing)
+!["Road Accident Dashboard"](https://drive.google.com/file/d/1I_gOoM_szvEG4r2Cusc6I74r2-W81L7D/view?usp=drive_link)
 
 <br>
 
