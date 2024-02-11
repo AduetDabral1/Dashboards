@@ -33,7 +33,9 @@
 </ol>
 
 </ol>
+<br>
 This School Management Dashboard offers a valuable tool for data-driven decision-making and improved school management. By combining comprehensive data analysis with a user-friendly interface, it empowers stakeholders to create a thriving academic environment for all students.
-
+<p>
 <strong>Note:</strong>
 <p>This is a general description. You can further customize it by adding more specific elements based on your actual data and functionalities, such as specific academic metrics, event types, and desired visualizations.</p>
+</p>
